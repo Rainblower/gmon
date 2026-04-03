@@ -1,5 +1,7 @@
 # gmon
 
+[![AUR version](https://img.shields.io/aur/version/gmon)](https://aur.archlinux.org/packages/gmon)
+
 A lightweight, cross-platform system resource monitor for the terminal, written in Go.
 
 ![gmon screenshot](assets/screenshot.png)
@@ -14,6 +16,12 @@ A lightweight, cross-platform system resource monitor for the terminal, written 
 - Cross-platform: Linux, macOS, Windows
 
 ## Installation
+
+### Arch Linux (AUR)
+
+```bash
+yay -S gmon
+```
 
 ### From source
 
