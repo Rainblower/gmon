@@ -75,6 +75,14 @@ gmon -m -d
 
 Binaries are placed in `./build/`.
 
+## Supported platforms
+
+| OS | amd64 | arm64 |
+|---|---|---|
+| Linux | ✓ | ✓ |
+| macOS | ✓ | ✓ |
+| Windows | ✓ | ✓ |
+
 ## Requirements
 
 - Go 1.22+
