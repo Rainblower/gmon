@@ -95,6 +95,13 @@ Binaries are placed in `./build/`.
 
 - Go 1.22+
 
+## Dependencies
+
+- [gopsutil](https://github.com/shirou/gopsutil) — system metrics
+- [cobra](https://github.com/spf13/cobra) — CLI framework
+- [bubbletea](https://github.com/charmbracelet/bubbletea) — TUI framework
+- [lipgloss](https://github.com/charmbracelet/lipgloss) — terminal styling
+
 ## License
 
 MIT
